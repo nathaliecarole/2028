@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Ebonje/2028.git
+    repoURL: git@github.com:nathaliecarole/2028.git
     targetRevision: HEAD
     path: "."
     directory:
